@@ -1,0 +1,20 @@
+{
+    "tests": [
+        {
+            "traceback": "Traceback (most recent call last):\n  File \"/home/grader/sudoku_solver/workspace/solution.py\", line 52, in naked_twins\n    raise NotImplementedError\nNotImplementedError\n",
+            "message": "",
+            "description": "1. The naked_twins method applies the 'naked twins' strategy",
+            "result": "E",
+            "advice": "Your code completed 0 test cases. The last test case executed was:\n{\"F5\": \"1345689\", \"D6\": \"23568\", \"G4\": \"23678\", \"H3\": \"2456789\", \"A8\": \"2346\", \"A7\": \"2346\", \"A4\": \"5\", \"H2\": \"23568\", \"E2\": \"123568\", \"B8\": \"8\", \"F9\": \"1234568\", \"D8\": \"1235679\", \"I3\": \"25678\", \"A9\": \"2346\", \"E8\": \"12345679\", \"F4\": \"23468\", \"C3\": \"4678\", \"C7\": \"13456\", \"G2\": \"123568\", \"H7\": \"234568\", \"C2\": \"68\", \"B7\": \"7\", \"D3\": \"25689\", \"I1\": \"123678\", \"C5\": \"2\", \"B1\": \"5\", \"D5\": \"1356789\", \"A1\": \"2468\", \"A5\": \"3468\", \"E1\": \"123689\", \"C1\": \"4678\", \"I5\": \"35678\", \"I9\": \"1235678\", \"I8\": \"123567\", \"F1\": \"123689\", \"F3\": \"25689\", \"G5\": \"35678\", \"E7\": \"1234568\", \"G6\": \"9\", \"C8\": \"13456\", \"G1\": \"1234678\", \"G3\": \"245678\", \"G9\": \"12345678\", \"E3\": \"25689\", \"B3\": \"3\", \"H9\": \"2345678\", \"F2\": \"7\", \"A6\": \"7\", \"D7\": \"123568\", \"H6\": \"23568\", \"H5\": \"35678\", \"I4\": \"23678\", \"F6\": \"23568\", \"I6\": \"4\", \"B2\": \"2\", \"C4\": \"9\", \"B6\": \"1\", \"E6\": \"23568\", \"E9\": \"12345678\", \"G7\": \"1234568\", \"G8\": \"1234567\", \"H1\": \"2346789\", \"D4\": \"23678\", \"C9\": \"13456\", \"D2\": \"4\", \"B5\": \"46\", \"D1\": \"123689\", \"C6\": \"368\", \"E4\": \"234678\", \"I7\": \"9\", \"H8\": \"234567\", \"D9\": \"1235678\", \"B4\": \"46\", \"A2\": \"9\", \"A3\": \"1\", \"F7\": \"1234568\", \"E5\": \"13456789\", \"I2\": \"123568\", \"F8\": \"1234569\", \"H4\": \"1\", \"B9\": \"9\"}",
+            "rubric_item_id": "5531"
+        },
+        {
+            "traceback": "Traceback (most recent call last):\n  File \"/home/grader/sudoku_solver/workspace/solution.py\", line 156, in solve\n    values = search(values)\n  File \"/home/grader/sudoku_solver/workspace/solution.py\", line 137, in search\n    raise NotImplementedError\nNotImplementedError\n",
+            "message": "",
+            "description": "2. The solve method produces a valid solution",
+            "result": "E",
+            "advice": "Your code completed 0 test cases. The last test case executed was:\n9.1....8.8.5.7..4.2.4....6...7......5..............83.3..6......9................\n",
+            "rubric_item_id": "5530"
+        }
+    ]
+}
